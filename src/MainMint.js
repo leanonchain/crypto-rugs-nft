@@ -54,7 +54,7 @@ const MainMint = ({ accounts, setAccounts }) => {
           >
             It's 2022. The DeFi ecosystem is fully of rugs protocols. Will you
             survive this new era? Mint your own Rug and fight the
-            scamers.
+            scammers.
           </Text>
         </div>
 
